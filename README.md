@@ -4,7 +4,11 @@
 
 
 -Trabajos mas solicitados
+<br>
 -Cuales habilidades crees que solicitan en el mercado laboral
+<br>
 -Que niveles educativos requieren
+<br>
 -Que empresas necesitan empleados urgentemente 
+<br>
 -etc
